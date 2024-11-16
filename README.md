@@ -72,7 +72,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## For Review
 
-* [Video Walkthrough]()
+* [Video Walkthrough](https://drive.google.com/file/d/1YHtHZjVjZ1RBphM2zvrsc3edIIVwEVJW/view)
 
 * [Github repo](https://github.com/sunny-script/Challenge-10)
 
